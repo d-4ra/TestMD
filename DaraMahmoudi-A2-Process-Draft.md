@@ -52,3 +52,5 @@ Strengthen these skills by practicing how you present your work, your goals, and
 [3] University of Washington Bothell, “CSSE Curriculum,” School of STEM. [Online]. Available: https://www.uwb.edu/stem/undergraduate/majors/bscsse/curriculum. [Accessed: Apr. 16, 2026].
 
 [4] University of Washington Career & Internship Center, “Interviews.” [Online]. Available: https://careers.uw.edu/channels/interviews/. [Accessed: Apr. 16, 2026].
+
+[5] National Association of Colleges and Employers, “Career Readiness Defined,” NACE. [Online]. Available: https://www.naceweb.org/career-readiness/competencies/career-readiness-defiadd ned/. [Accessed: Apr. 16, 2026].
