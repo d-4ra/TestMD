@@ -13,6 +13,9 @@
 ## Purpose
 If you want to become a software engineer after graduating from UW Bothell, you need more than just a degree. You also need strong technical foundations, practical project experience, and clear professional skills that help you stand out in a competitive entry-level job market. This guide explains the best practices that can help you build those strengths while still in school. Its purpose is to show you what to focus on during college and why those steps matter for becoming a stronger software engineering candidate.
 
+**Figure 1. Factors that close the gap between coursework and entry-level software engineering readiness**
+![Figure 1. Factors that close the gap between coursework and entry-level software engineering readiness](your-image-file-name.png)
+
 
 
 ## Best Practices for Technical Preparation
@@ -39,6 +42,9 @@ Communication, networking, and interview skills matter because technical ability
 
 Strengthen these skills by practicing how you present your work, your goals, and your value to others before you begin applying seriously. Refine your resume, prepare short explanations of your projects, attend career events, and build comfort speaking with professors, recruiters, classmates, or professionals in the field. Networking should be treated as relationship building rather than self-promotion alone, and interview preparation should focus on explaining your thinking clearly as well as answering technical questions. This helps you stand out more effectively and turns your existing experience into something employers can recognize.
 
+
+
+**Figure 1. Building readiness beyond coursework for an entry-level software engineering career**
 
 
 ## References
